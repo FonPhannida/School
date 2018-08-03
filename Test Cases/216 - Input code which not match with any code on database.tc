@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>216 - Input code which not match with any code on database</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0b51e6e-f9b7-4923-aae1-a67acf61e3c3</testCaseGuid>
+</TestCaseEntity>
